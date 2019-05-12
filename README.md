@@ -1,4 +1,4 @@
-# 基于 preact 移动端脚手架(活动页等简单页面,采用 vw 适配)
+# 基于 preact 移动端脚手架
 
 ## Project setup
 
